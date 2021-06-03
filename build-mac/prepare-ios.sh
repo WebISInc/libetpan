@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/zsh
 cd dependencies
 for script in prepare-*.sh ; do
 	echo running $script
